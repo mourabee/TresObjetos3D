@@ -1,0 +1,12 @@
+﻿  Origem.cpp
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(66,18): warning C4305: '+=': truncamento de 'double' para 'GLfloat'
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(67,18): warning C4305: '+=': truncamento de 'double' para 'GLfloat'
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(68,18): warning C4305: '+=': truncamento de 'double' para 'GLfloat'
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(136,12): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(137,12): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(170,12): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(171,12): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(174,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(233,12): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\brend\source\repos\TresObjetos3D\TresObjetos3D\Origem.cpp(234,12): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+  TresObjetos3D.vcxproj -> C:\Users\brend\source\repos\TresObjetos3D\Debug\TresObjetos3D.exe
